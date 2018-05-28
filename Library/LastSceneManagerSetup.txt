@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AREvent.unity
+  isLoaded: 1
+  isActive: 1
