@@ -105,6 +105,5 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         foreach (var component in canvasComponents)
             component.enabled = false;
     }
-
     #endregion // PRIVATE_METHODS
 }
